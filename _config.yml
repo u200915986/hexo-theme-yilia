@@ -2,9 +2,8 @@
 
 menu:
   主页: /
+  Vim 练级手册: /vim/
   归档: /archives
-  # 标签: /tags
-  # 随笔: /tags/随笔/
 
 # SubNav
 subnav:
@@ -86,8 +85,8 @@ duoshuo: false
 wangyiyun: false
 
 #3、畅言
-changyan_appid: false #'cyt9fjmmK'
-changyan_conf: false # 'prod_89840ccfa4e29fd01bee97148cd25073'
+changyan_appid: false #
+changyan_conf: false #
 
 #4、Disqus 在hexo根目录的config里也有disqus_shortname字段，优先使用yilia的
 disqus: true 
@@ -96,8 +95,8 @@ disqus: true
 gitment_owner: false #7698847 #你的 GitHub ID
 gitment_repo: 'https://github.com/wxnacy/wxnacy.github.io.git'          #存储评论的 repo
 gitment_oauth:
-  client_id: '2349cbdffa4b7d24f0f0'           #client ID
-  client_secret: '7cb44cc2ed407b13bb47c039665dec254e4171f5'       #client secret
+  client_id: ''           #client ID
+  client_secret: ''       #client secret
 
 # 样式定制 - 一般不需要修改，除非有很强的定制欲望…
 style:
